@@ -11,6 +11,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primGreen: "#53c28b",
+        hovGreen: "#46a375",
       },
     },
   },
