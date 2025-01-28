@@ -13,6 +13,7 @@ export default {
         foreground: "var(--foreground)",
         primGreen: "#53c28b",
         hovGreen: "#46a375",
+        primBorder: "#bbb",
       },
     },
   },
